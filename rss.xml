@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[flockaway]]></title>
         <description><![CDATA[flockaway]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flockaway/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 23 Apr 2016 17:12:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/flockaway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Nomads: Goodbye commute, hello world]]></title>
+            <description><![CDATA[<article><h1>Digital Nomads: Goodbye commute, hello world</h1><p>Ever wanted to ditch your desk and live life free? This video was made by and for Digital Nomads-professionals who broke free of the 9-to-5 to live life as an adventure, taking their work with them as they travel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1b43f947d4246fe84f1c6466b8e181c3765928b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Rl4OdW3huV8</link>
+            <guid isPermaLink="false">ff5f8c8e-0dfa-4e8f-b94a-f304d4ae7e59</guid>
+            <pubDate>Sat, 23 Apr 2016 17:12:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 good reasons why working remotely makes sense - TechRepublic]]></title>
             <description><![CDATA[<article><h1>10 good reasons why working remotely makes sense - TechRepublic</h1><p>When employees carry out their duties away from the office, that's remote working - also known as telecommuting and telework. It's not an all-or-nothing definition. Some remote workers, like travelling salespeople and call center workers, are permanently away from their organization. Laptop-wielding middle managers regularly dock with the office mothership.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84efe00b92a6065746cc012e672123c094f868ec.jpg"></article>]]></description>
