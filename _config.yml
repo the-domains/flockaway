@@ -1,7 +1,7 @@
 name: flockaway
 favicon: null
-layout_spectrum: 0.9720750213600695
-typography_spectrum: 0.40936364070512354
+layout_spectrum: 0
+typography_spectrum: 0.81406
 title: flockaway
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#498022'
+    - '#b57edc'
+    - '#ffffff'
+    - '#d0d7c5'
+    - '#e4daf2'
   brandStrength: 0.07858899771235883
   lightness: 0.9598673556465656
   saturation: 0.19149902369827032
