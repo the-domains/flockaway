@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[flockaway]]></title>
+        <description><![CDATA[flockaway]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 17:12:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 good reasons why working remotely makes sense - TechRepublic]]></title>
+            <description><![CDATA[<article><h1>10 good reasons why working remotely makes sense - TechRepublic</h1><p>When employees carry out their duties away from the office, that's remote working - also known as telecommuting and telework. It's not an all-or-nothing definition. Some remote workers, like travelling salespeople and call center workers, are permanently away from their organization. Laptop-wielding middle managers regularly dock with the office mothership.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84efe00b92a6065746cc012e672123c094f868ec.jpg"></article>]]></description>
+            <link>http://www.techrepublic.com/blog/10-things/10-good-reasons-why-working-remotely-makes-sense/</link>
+            <guid isPermaLink="false">874c0079-141e-4abf-a822-593ed3230e3d</guid>
+            <pubDate>Sat, 23 Apr 2016 17:12:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
